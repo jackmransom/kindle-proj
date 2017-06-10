@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="600" width="800" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g font-family="Helvetica Neue">
+    <text font-size="50px" x="5" y="50">It's CURRENT_DAY</text>
+    <text font-size="50px" x="5" y="105">CAL_ONE</text>
+    <text font-size="50px" x="5" y="155">CAL_TWO</text>
+    <text font-size="50px" x="5" y="205">CAL_THREE</text>
+  </g>
+  <line x1="0" x2="800" y1="225" y2="225" style="stroke:rgb(0,0,0);stroke-width:5"/>
+  <g font-family="Helvetica Neue">
+    <text font-size="50px" x="5" y="265">MAIL_ONE</text>
+    <text font-size="50px" x="5" y="305">MAIL_TWO</text>
+    <text font-size="50px" x="5" y="355">MAIL_THREE</text>
+  </g>
+</svg>
